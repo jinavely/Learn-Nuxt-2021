@@ -46,6 +46,6 @@ export default {
 
   // env
   env: {
-    baseURL: isProduction ? 'https://my-json-server.typicode.com/joshua1988/nuxt-shopping-api' : 'http://localhost:3000'
+    baseURL: isProduction ? 'https://my-json-server.typicode.com/jinavely/Learn-Nuxt-2021-API' : 'http://localhost:3000'
   }
 }
